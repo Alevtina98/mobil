@@ -1,0 +1,17 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "start app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "alevtina",
+  "license": "ISC",
+  "dependencies": {
+    "react-native": "^0.65.1"
+  },
+  "devDependencies": {
+    "react": "^17.0.2"
+  }
+}
